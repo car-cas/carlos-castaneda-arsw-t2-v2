@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="68d395be-c20d-46da-8b28-8c2ef33327a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/estilo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/eci/arsw/covid/services/impl/CoronavirusServicesImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/eci/arsw/covid/services/impl/CoronavirusServicesImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edu/eci/arsw/covid/services/impl/CoronavirusServicesImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edu/eci/arsw/covid/services/impl/CoronavirusServicesImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,25 +83,25 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="113" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.768@0.0.1366.768" timestamp="1585240889804" />
-    <state width="1366" height="190" key="GridCell.Tab.0.bottom" timestamp="1585243362686">
+    <state width="1366" height="190" key="GridCell.Tab.0.bottom" timestamp="1585244488618">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1366" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585243362686" />
+    <state width="1366" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585244488618" />
     <state width="1366" height="190" key="GridCell.Tab.0.bottom/0.23.1366.694@0.23.1366.694" timestamp="1585242564176" />
-    <state width="1366" height="190" key="GridCell.Tab.0.center" timestamp="1585243362681">
+    <state width="1366" height="190" key="GridCell.Tab.0.center" timestamp="1585244488616">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1366" height="190" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585243362681" />
+    <state width="1366" height="190" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585244488616" />
     <state width="1366" height="190" key="GridCell.Tab.0.center/0.23.1366.694@0.23.1366.694" timestamp="1585242564173" />
-    <state width="1366" height="190" key="GridCell.Tab.0.left" timestamp="1585243362680">
+    <state width="1366" height="190" key="GridCell.Tab.0.left" timestamp="1585244488614">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1366" height="190" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585243362680" />
+    <state width="1366" height="190" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585244488614" />
     <state width="1366" height="190" key="GridCell.Tab.0.left/0.23.1366.694@0.23.1366.694" timestamp="1585242564170" />
-    <state width="1366" height="190" key="GridCell.Tab.0.right" timestamp="1585243362684">
+    <state width="1366" height="190" key="GridCell.Tab.0.right" timestamp="1585244488617">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1366" height="190" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585243362684" />
+    <state width="1366" height="190" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585244488617" />
     <state width="1366" height="190" key="GridCell.Tab.0.right/0.23.1366.694@0.23.1366.694" timestamp="1585242564175" />
     <state x="221" y="46" key="Maven.ArtifactSearchDialog" timestamp="1585239331072">
       <screen x="0" y="0" width="1366" height="768" />

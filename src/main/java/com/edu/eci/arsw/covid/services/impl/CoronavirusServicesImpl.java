@@ -28,22 +28,44 @@ public class CoronavirusServicesImpl implements CoronavirusServices {
 
     private void extraccionJson(String data, String tipo, HashMap<String, Country> datos){
         JSONObject json = new JSONObject(data);
-        JSONArray jArray = json.getJSONObject("data").getJSONArray("coronavirus");
-
+        JSONArray jArray = json.getJSONObject("data").getJSONArray("covid19Stats");
         for(int i = 0 ; i < jArray.length(); i++){
             JSONObject aux = jArray.getJSONObject(i);
+            if (datos.get(aux.getString(tipo)) != null) {
+                if (aux.getString(tipo).equals("")) {
+                    if (!aux.getString("city").equals("")) {
+                        Country country = datos.get(aux.getString("city"));
+                        country.sumConfirmed(aux.getInt("confirmed"));
+                        country.sumDeaths(aux.getInt("deaths"));
+                        country.sumRecovered(aux.getInt("recovered"));
+                    } else {
+                        System.out.println(aux.toString());
+                        Country country = datos.get(aux.getString("country"));
+                        country.sumConfirmed(aux.getInt("confirmed"));
+                        country.sumDeaths(aux.getInt("deaths"));
+                        country.sumRecovered(aux.getInt("recovered"));
+                    }
 
-            if (aux.getString(tipo).equals("")) {
-                Country country = datos.get(aux.getString("city"));
-                country.sumConfirmed(aux.getInt("confirmed"));
-                country.sumDeaths(aux.getInt("deaths"));
-                country.sumRecovered(aux.getInt("recovered"));
-
+                } else {
+                    Country country = datos.get(aux.getString(tipo));
+                    country.sumConfirmed(aux.getInt("confirmed"));
+                    country.sumDeaths(aux.getInt("deaths"));
+                    country.sumRecovered(aux.getInt("recovered"));
+                }
             } else {
-                Country country = datos.get(aux.getString(tipo));
-                country.sumConfirmed(aux.getInt("confirmed"));
-                country.sumDeaths(aux.getInt("deaths"));
-                country.sumRecovered(aux.getInt("recovered"));
+                if (aux.getString(tipo).equals("")) {
+                    if (!aux.getString("city").equals("")) {
+                        Country country = new Country(aux.getString("city"), aux.getInt("confirmed"), aux.getInt("deaths"), aux.getInt("recovered"));
+                        datos.put(aux.getString(tipo), country);
+                    } else {
+                        Country country = new Country(aux.getString("country"), aux.getInt("confirmed"), aux.getInt("deaths"), aux.getInt("recovered"));
+                        datos.put(aux.getString(tipo), country);
+                    }
+
+                } else {
+                    Country country = new Country(aux.getString(tipo), aux.getInt("confirmed"), aux.getInt("deaths"), aux.getInt("recovered"));
+                    datos.put(aux.getString(tipo), country);
+                }
             }
         }
     }
