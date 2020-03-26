@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT -jar target/covid-1.0-SNAPSHOT.jar
+web: java -Dserver.port=$PORT -jar target/coronavirusAPI-1.0-SNAPSHOT.jar
