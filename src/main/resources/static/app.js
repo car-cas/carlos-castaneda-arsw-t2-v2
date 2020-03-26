@@ -1,3 +1,8 @@
+var app=(function(){
+
+
+})();
+
 $(document).ready(function () {
   $.get("countries/getAll", function (data) {
     $('#mainBody').html('');
@@ -32,6 +37,7 @@ $(document).ready(function () {
       });
       index += 1;
     })
+
   });
 
 });
