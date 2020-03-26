@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68d395be-c20d-46da-8b28-8c2ef33327a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZfnhujzXQkSUOpvXtFA5a40GYw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CoronavirusAPIApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edu.eci.arsw.covid.CoronavirusAPIApplication" />
+      <module name="carlos-castaneda-arsw-t2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.eci.arsw.covid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CoronavirusAPIApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68d395be-c20d-46da-8b28-8c2ef33327a4" name="Default Changelist" comment="" />
+      <created>1585239138948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585239138948</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="283" y="49" key="#Project_Structure" timestamp="1585239249073">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="283" y="49" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1585239249073" />
+    <state x="113" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585240889805">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="113" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.768@0.0.1366.768" timestamp="1585240889804" />
+    <state width="1366" height="190" key="GridCell.Tab.0.bottom" timestamp="1585241994634">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1366" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585241994634" />
+    <state width="1366" height="190" key="GridCell.Tab.0.center" timestamp="1585241994632">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1366" height="190" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585241994632" />
+    <state width="1366" height="190" key="GridCell.Tab.0.left" timestamp="1585241994630">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1366" height="190" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585241994630" />
+    <state width="1366" height="190" key="GridCell.Tab.0.right" timestamp="1585241994633">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1366" height="190" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585241994633" />
+    <state x="221" y="46" key="Maven.ArtifactSearchDialog" timestamp="1585239331072">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="221" y="46" key="Maven.ArtifactSearchDialog/0.0.1366.768@0.0.1366.768" timestamp="1585239331072" />
+  </component>
+</project>
