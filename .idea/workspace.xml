@@ -5,7 +5,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/static/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/static/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/estilo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/static/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/estilo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,26 +85,26 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="113" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.768@0.0.1366.768" timestamp="1585240889804" />
-    <state width="1366" height="190" key="GridCell.Tab.0.bottom" timestamp="1585259276943">
+    <state width="1366" height="190" key="GridCell.Tab.0.bottom" timestamp="1585261327482">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1366" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585259276943" />
-    <state width="1366" height="190" key="GridCell.Tab.0.bottom/0.23.1366.694@0.23.1366.694" timestamp="1585259202319" />
-    <state width="1366" height="190" key="GridCell.Tab.0.center" timestamp="1585259276942">
+    <state width="1366" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585261327482" />
+    <state width="1366" height="190" key="GridCell.Tab.0.bottom/0.23.1366.694@0.23.1366.694" timestamp="1585260007623" />
+    <state width="1366" height="190" key="GridCell.Tab.0.center" timestamp="1585261327480">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1366" height="190" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585259276942" />
-    <state width="1366" height="190" key="GridCell.Tab.0.center/0.23.1366.694@0.23.1366.694" timestamp="1585259202309" />
-    <state width="1366" height="190" key="GridCell.Tab.0.left" timestamp="1585259276941">
+    <state width="1366" height="190" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585261327480" />
+    <state width="1366" height="190" key="GridCell.Tab.0.center/0.23.1366.694@0.23.1366.694" timestamp="1585260007616" />
+    <state width="1366" height="190" key="GridCell.Tab.0.left" timestamp="1585261327478">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1366" height="190" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585259276941" />
-    <state width="1366" height="190" key="GridCell.Tab.0.left/0.23.1366.694@0.23.1366.694" timestamp="1585259202307" />
-    <state width="1366" height="190" key="GridCell.Tab.0.right" timestamp="1585259276942">
+    <state width="1366" height="190" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585261327478" />
+    <state width="1366" height="190" key="GridCell.Tab.0.left/0.23.1366.694@0.23.1366.694" timestamp="1585260007612" />
+    <state width="1366" height="190" key="GridCell.Tab.0.right" timestamp="1585261327481">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1366" height="190" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585259276942" />
-    <state width="1366" height="190" key="GridCell.Tab.0.right/0.23.1366.694@0.23.1366.694" timestamp="1585259202311" />
+    <state width="1366" height="190" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585261327481" />
+    <state width="1366" height="190" key="GridCell.Tab.0.right/0.23.1366.694@0.23.1366.694" timestamp="1585260007620" />
     <state x="221" y="46" key="Maven.ArtifactSearchDialog" timestamp="1585239331072">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
